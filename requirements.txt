@@ -1,0 +1,11 @@
+requests
+fake-useragent
+instaloader
+thrift==0.11.0
+goslate
+rsa
+livejson
+html5lib
+youtube_dl
+googletrans
+gtts
